@@ -1,5 +1,1 @@
-
-# Assignment 1
-
-You will find instructions for this assignment on the course website.
-
+A CLI-based insurance system that follows key OOP principles
